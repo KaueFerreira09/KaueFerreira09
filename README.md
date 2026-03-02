@@ -58,7 +58,7 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=KaueFerreira09&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KaueFerreira09&theme=radical&hide_border=true&locale=pt_BR" />
 
 </div>
 
