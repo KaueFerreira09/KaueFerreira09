@@ -1,16 +1,76 @@
-## Hi there 👋
 
-<!--
-**KaueFerreira09/KaueFerreira09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">
+    Werbete Kauê Barbosa Ferreira
+  </span>
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Kauê.Dev ✨ | Front-end Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>"Tudo posso naquele que me fortalece." – Filipenses 4:13 ✝️</em>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎨 Desenvolvedor Front-end apaixonado por criar interfaces modernas e bem estruturadas.  
+💡 Estudando e evoluindo diariamente em HTML, CSS e JavaScript.  
+🔥 Criando projetos que unem criatividade, organização e propósito.  
+
+Acredito que tecnologia é ferramenta — mas propósito é direção.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 📚 Atualmente
+
+🚀 Aprofundando meus conhecimentos em:
+- Estruturação semântica com HTML
+- Layouts modernos com CSS (Flexbox & Grid)
+- Manipulação do DOM com JavaScript
+
+🎯 Objetivo: Me tornar um desenvolvedor Front-end de alto nível.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Kauê GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## ✨ Mentalidade
+
+> Código com excelência.  
+> Fé como fundamento.  
+> Evolução constante.
+
+---
+
+## 📫 Conecte-se comigo
+
+Email: kauebrxff@gmail.com
+
+---
+
