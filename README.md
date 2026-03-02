@@ -52,11 +52,13 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueFerreira09&layout=compact&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueFerreira09&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=KaueFerreira09&theme=tokyonight&hide_border=true" />
 
 </div>
 
