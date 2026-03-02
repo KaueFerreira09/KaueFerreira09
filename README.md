@@ -48,13 +48,15 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-![Kauê GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueFerreira09&layout=compact&theme=tokyonight" />
 
 </div>
 
