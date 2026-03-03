@@ -18,7 +18,7 @@
 ## 👨‍💻 Sobre mim
 
 🎨 Desenvolvedor Front-end apaixonado por criar interfaces modernas e bem estruturadas.  
-💡 Estudando e evoluindo diariamente em HTML, CSS, JavaScript e React.
+💡 Estudando e evoluindo diariamente em HTML,CSS,JavaScript e React.
 🔥 Criando projetos que unem criatividade, organização e propósito.  
 
 Acredito que tecnologia é ferramenta — mas propósito é direção.
