@@ -38,9 +38,11 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 ## 📚 Atualmente
 
 🚀 Aprofundando meus conhecimentos em:
-- Estruturação semântica com HTML
-- Layouts modernos com CSS (Flexbox & Grid)
-- Manipulação do DOM com JavaScript
+
+- Estruturação semântica com HTML  
+- Layouts modernos com CSS (Flexbox & Grid)  
+- Manipulação do DOM com JavaScript  
+- Desenvolvimento de interfaces com React ⚛️  
 
 🎯 Objetivo: Me tornar um desenvolvedor Front-end de alto nível.
 
