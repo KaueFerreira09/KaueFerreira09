@@ -51,7 +51,7 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+<img src="https://gh-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
