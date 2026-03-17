@@ -50,17 +50,28 @@ Acredito que tecnologia é ferramenta — mas propósito é direção.
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+</p>
 
-<img height="165em" src="https://gh-readme-stats.vercel.app/api?username=KaueFerreira09&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+<p align="center">
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=KaueFerreira09&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
+</p>
 
-<img height="165em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=KaueFerreira09&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
+---
 
-<br/>
+## 🔥 Sequência de Contribuições
 
-<img src="https://streak-stats.demolab.com?user=KaueFerreira09&theme=radical&hide_border=true&locale=pt_BR" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KaueFerreira09&theme=radical&hide_border=true&locale=pt_BR" />
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" />
+</p>
+
 ---
 
 ## ✨ Mentalidade
